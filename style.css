@@ -564,9 +564,7 @@ main {
   }
 
   .Login-pin {
-    padding-top: auto;
-    display: flex;
-    box-sizing: inherit;
+    display: none;
   }
   .main-content p,
   .main-content h1,
