@@ -555,9 +555,12 @@ main {
     width: 50px;
   }
 
-  .no-show-2 {
+  .no-show {
     display: none;
   }
+
+  .no-show-2{
+    width:100%}
 
   #menu {
     display: flex;
